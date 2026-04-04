@@ -3,7 +3,7 @@ Lab 6
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 2
 
 
 /****************************************************************************
@@ -11,11 +11,15 @@ Número de horas:
 ******************************************************************************/
 
 ¿Sí o no?
-
+Si
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
+Durante la actividad se presentaron errores en la estructura de algunos programas y 
+en el manejo de diccionarios vacíos, lo que causaba fallos en la ejecución. 
+También fue clave seguir exactamente los requisitos del evaluador automático. 
+En general, sirvió para reforzar la depuración y el uso de diccionarios en Python.
 
 
 
@@ -23,7 +27,7 @@ Número de horas:
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/sbarrerar1605
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,4 +38,5 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+Esta tarea de programación representa mi propio trabajo de acuerdo
+con las regulaciones de la Universidad.  /s/ Sergio Barrera
